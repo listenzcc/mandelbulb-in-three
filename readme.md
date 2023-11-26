@@ -2,7 +2,7 @@
 
 曼德尔球（Mandelbulb）是一个神奇的分型数学结构，我可以使用 Three.js 方便地渲染它。由于 ObservableHQ 不支持必要的插件，因此我将源码挂在了 github 的 page 上。
 
-[](https://listenzcc.github.io/mandelbulb-in-three/)
+[https://listenzcc.github.io/mandelbulb-in-three/](https://listenzcc.github.io/mandelbulb-in-three/ "https://listenzcc.github.io/mandelbulb-in-three/")
 
 ---
 - [曼德尔球的渲染及简要原理](#曼德尔球的渲染及简要原理)
